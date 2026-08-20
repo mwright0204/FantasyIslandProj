@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.8",
+	"EngineAssociation": "5.6",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -36,15 +36,11 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ModelContextProtocol",
+			"Name": "MovieRenderPipeline",
 			"Enabled": true
 		},
 		{
-			"Name": "MCPClientToolset",
-			"Enabled": true
-		},
-		{
-			"Name": "AllToolsets",
+			"Name": "MoviePipelineMaskRenderPass",
 			"Enabled": true
 		}
 	]
