@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{00FA3E63-4073-843B-FBB2-2C9DD716CDD6}",
+	"EngineAssociation": "5.6",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -34,14 +34,6 @@
 		{
 			"Name": "Paper2D",
 			"Enabled": false
-		},
-		{
-			"Name": "MovieRenderPipeline",
-			"Enabled": true
-		},
-		{
-			"Name": "MoviePipelineMaskRenderPass",
-			"Enabled": true
 		}
 	]
 }
